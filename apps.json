@@ -1,0 +1,57 @@
+{
+  "updated": "2026-10-16",
+  "apps": [
+    {
+      "id": "kaagaz-mitra",
+      "name": "Kaagaz Mitra",
+      "emoji": "🗂️",
+      "version": "0.1.0",
+      "added": "2026-10-16",
+      "url": "https://adesh2151.github.io/kaagaz-mitra/",
+      "apk": "https://github.com/adesh2151/kaagaz-mitra/releases/download/apk/KaagazMitra.apk"
+    },
+    {
+      "id": "yojana-mitra",
+      "name": "Yojana Mitra",
+      "emoji": "🪔",
+      "version": "0.1.0",
+      "added": "2026-10-15",
+      "url": "https://adesh2151.github.io/yojana-mitra/",
+      "apk": "https://github.com/adesh2151/yojana-mitra/releases/download/apk/YojanaMitra.apk"
+    },
+    {
+      "id": "shetkari-mitra",
+      "name": "Shetkari Mitra",
+      "emoji": "🌱",
+      "version": "0.11.0",
+      "added": "2026-01-01",
+      "url": "https://adesh2151.github.io/shetkari-mitra/",
+      "apk": "https://github.com/adesh2151/shetkari-mitra/releases/download/apk/ShetkariMitra.apk"
+    },
+    {
+      "id": "vivora",
+      "name": "Vivora",
+      "emoji": "💍",
+      "version": "1.0.0",
+      "added": "2026-01-01",
+      "url": "https://adesh2151.github.io/vivora/"
+    },
+    {
+      "id": "wellora",
+      "name": "Wellora",
+      "emoji": "🥗",
+      "version": "1.0.0",
+      "added": "2026-01-01",
+      "url": "https://adesh2151.github.io/Wellora/",
+      "apk": "https://github.com/adesh2151/Wellora/releases/download/latest/Wellora.apk"
+    },
+    {
+      "id": "photo-transfer",
+      "name": "Photo Transfer",
+      "emoji": "📸",
+      "version": "1.0.0",
+      "added": "2026-01-01",
+      "url": "https://adesh2151.github.io/photo-transfer/"
+    }
+  ]
+}
